@@ -13,4 +13,4 @@
 harmony-py ~= 0.4.9
 matplotlib ~= 3.7.2
 netCDF4 ~= 1.6.4
-notebook ~= 7.0.0
+notebook ~= 7.2.2
